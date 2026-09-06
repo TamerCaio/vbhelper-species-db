@@ -1,0 +1,39 @@
+name=species.json
+{
+  "version": 1,
+  "updatedAt": "2026-09-06",
+  "species": {
+    "13": {
+      "0": {
+        "name": "Pulsemon",
+        "level": "Baby",
+        "type": null,
+        "profile": "Um Digimon Baby cheio de energia, sempre pulando de um lado para o outro.",
+        "specialMoves": []
+      },
+      "5": {
+        "name": "Kotemon",
+        "level": "Rookie",
+        "type": "Reptile",
+        "profile": "Um Digimon treinado nas artes marciais desde muito jovem, cobre o rosto com uma máscara de bambu.",
+        "specialMoves": ["Men", "Kote Slash"]
+      }
+    },
+    "12": {
+      "3": {
+        "name": "Agumon",
+        "level": "Rookie",
+        "type": "Reptile",
+        "profile": "Um pequeno Digimon reptiliano, corajoso e leal ao seu parceiro.",
+        "specialMoves": ["Baby Flame", "Pepper Breath"]
+      },
+      "4": {
+        "name": "Greymon",
+        "level": "Champion",
+        "type": "Dinosaur",
+        "profile": "A evolução de Agumon, mais forte e coberto por um capacete ósseo na cabeça.",
+        "specialMoves": ["Nova Blast", "Great Antler"]
+      }
+    }
+  }
+}

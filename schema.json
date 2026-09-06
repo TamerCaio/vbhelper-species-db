@@ -1,0 +1,43 @@
+name=schema.json
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "VBHelper Species Database",
+  "type": "object",
+  "required": ["version", "species"],
+  "properties": {
+    "version": { "type": "integer", "minimum": 1 },
+    "updatedAt": { "type": "string" },
+    "species": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9]+$": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]+$": {
+              "type": "object",
+              "required": ["name"],
+              "properties": {
+                "name": { "type": "string", "minLength": 1 },
+                "level": {
+                  "type": ["string", "null"],
+                  "enum": ["Baby", "In-Training", "Rookie", "Champion", "Ultimate", "Mega", "Ultra", null]
+                },
+                "type": { "type": ["string", "null"] },
+                "profile": { "type": ["string", "null"], "maxLength": 280 },
+                "specialMoves": {
+                  "type": "array",
+                  "items": { "type": "string" },
+                  "default": []
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
