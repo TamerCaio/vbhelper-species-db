@@ -17,12 +17,19 @@
         "profile": "A Baby Digimon that evolved from Sakumon, and that now has two blades. Its balance has been stabilized by the blades now positioned on its left and right side, as well as with the addition of its small feet. While it has stopped rolling around and become more active, getting stuck in a ceiling or wall will cause it to be unable to move.",
         "specialMoves": ["Sakusaku"]
       },
+      "3": {
+        "name": "Zubamon",
+        "level": "Child",
+        "type": "Weapon",
+        "profile": "One of the 'Legend-Arms', who are capable of transforming themselves into weapons. A legend about the Legend-Arms goes, “if held by an angel it will save the world, and if held by a demon it will destroy the world.” Zubamon carries the ”Twentiest” data, and often shouts out “I am the Twentiest!” despite not understanding what it means. It despises crookedness, and is constantly seeking sharpness. A day where its battles, jokes, and sharpness turn out well will leave it in high spirits. Although it has a technique, 'Twenty Dive', in which it charges head-first, Zubamon's true power is exhibited while it is in its weapon form.",
+        "specialMoves": ["Twenty Dive", "20 Scratch"]
+      },
       "4": {
-        "name": "Kotemon",
-        "level": "Rookie",
-        "type": "Reptile",
-        "profile": "Um Digimon treinado nas artes marciais desde muito jovem, cobre o rosto com uma máscara de bambu.",
-        "specialMoves": ["Men", "Kote Slash"]
+        "name": "Ryudamon",
+        "level": "Child",
+        "type": "Beast",
+        "profile": "A Beast Digimon that, because it has an old-style Interface on its brow, is presumed to be an experimental 'Prototype Digimon' from before Digimon were discovered. Although its body is clad in Japanese-style armor high in defensive ability, its movements are nimble, so it fights by resolutely leaping into the opponent's chest. It studies the business of combat as it fights, and possesses Bushikatagi, with bravery and a soul that doesn't fear more powerful Digimon. The data that is said to have been hidden within the deepest parts of its Digicore, during an experiment, is the ferocious combat data of the 'Dragons' and 'Generals' of Japanese mythology, and it is said it has the potential to grow into a mighty Digimon. Signature Move: Withstands the opponent's attacks with its armor and helmet, then counterattacks (Kabutogaeshi). Its Special Move is leaping into the opponent's chest and firing a blade of iron from its mouth (Iaijin).",
+        "specialMoves": ["Kabutogaeshi", "Iaijin", "Tera Burst"]
       }
     },
     "12": {
