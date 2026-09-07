@@ -10,7 +10,14 @@
         "profile": "A tiny Digimon with a single blade protruding from its head. Its whole body is golden, and the blade on its head shines very brightly. Its personality is mischievous and it is constantly moving as long as it is awake, but it is bad at balancing due to the weight of its head, so surrounding Digimon can occasionally be seen running around trying to escape because of it swinging its blade as it rolls around.",
         "specialMoves": ["Sakkuri"]
       },
-      "5": {
+      "2": {
+        "name": "Sakuttomon",
+        "level": "Baby II",
+        "type": "Weapon",
+        "profile": "A Baby Digimon that evolved from Sakumon, and that now has two blades. Its balance has been stabilized by the blades now positioned on its left and right side, as well as with the addition of its small feet. While it has stopped rolling around and become more active, getting stuck in a ceiling or wall will cause it to be unable to move.",
+        "specialMoves": ["Sakusaku"]
+      },
+      "4": {
         "name": "Kotemon",
         "level": "Rookie",
         "type": "Reptile",
