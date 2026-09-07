@@ -41,6 +41,145 @@
           "Iaijin",
           "Tera Burst"
         ]
+      },
+      "5": {
+        "name": "Zubaeagermon",
+        "level": "Adult",
+        "type": "Weapon",
+        "profile": "\"I, who am the Twentiest, will never halt! I'm going to keep on running forth!\" With those words carved into Zubamon's heart, it evolved into a form that embodies that forward-charging style. Zubaeagermon's policy is simply to continue charging forth without pause, no matter if smooth or rough terrain awaits it, or even if it has to crawl and struggle to continue forward.    Its Special Moves are thrusting straight into the enemy's chest while shouting \"Twentiestttt!!\" (Road T(w)o Decade), and curling its body into a ball and spinning towards the enemy, slicing them with its tail blade (Vingtième). Not only that, by transforming itself into its prided sword form, it is able to slice through any enemy using 100% of its strength.",
+        "specialMoves": [
+          "Road T(w)o Decade",
+          "Vingtième"
+        ]
+      },
+      "6": {
+        "name": "Ginryumon",
+        "level": "Adult",
+        "type": "Beast Dragon",
+        "profile": "A Beast Dragon Digimon whose entire body is clad in sturdy, Japanese-styled armor. Despite what its appearance may suggest, it has a light body that allows it to glide gracefully in mid-air, and it fights while parrying enemy attacks with its tough yet smooth armor. It does not cower before any enemy Digimon and excels at attacking with exceptional breakthrough ability, using its courage at parrying enemy attacks using its own body, and eyesight that allows it to detect enemy attacks right before they hit. It is hypothesized to be a \"Prototype Digimon\" due to the outdated Interface on its forehead. Its Special Move is impaling the enemy with an iron spear fired from its mouth (Tekkoujin). Its Signature Move is parrying enemy attacks with its armor and charging at the enemy (Boujinha).",
+        "specialMoves": [
+          "Tekkoujin",
+          "Boujinha"
+        ]
+      },
+      "7": {
+        "name": "Musyamon",
+        "level": "Adult",
+        "type": "Demon Man",
+        "profile": "Originally, it was the data of a samurai master from an overseas video game, but it was infected by a computer virus, and evolved to become this armored warrior Digimon. Its countless battles with Digimon have reduced it to its current appearance of a ruthless ochimusha, but this can also be said to be proof of this Digimon's terrifying combat ability and vitality. Musyamon is the very image of a savage warrior who continues to live through its endless battles. The demon sword it wields in its right hand, \"Shiratori-maru\", is engraved with a forbidden curse that causes it to steal the lifeforce of any opponent it cuts, and is said to grow sharper for every thousand Digimon it slays. The Special Move it performs using its Shiratori-maru is \"Kirisute Gomen\". It is considering one day issuing a challenge to Leomon, to have a decisive battle with it and its cherished sword, Shishiou-maru.",
+        "specialMoves": [
+          "Kirisute Gomen",
+          "Shiratori-maru[N 2]",
+          "Drain Slash"
+        ]
+      },
+      "8": {
+        "name": "Dokugumon",
+        "level": "Adult",
+        "type": "Insect",
+        "profile": "A cursed Digimon in the shape of a spider, whose entire body has been parasitised by a computer virus. While it was originally a spider-type, it had a docile personality typical of insect-type Digimon; however, at some point, it was drawn into a powerful electromagnetic storm and infected by a computer virus that had been circulating around the Network. Since then, it has become but a lump of poison, or in other words a computer virus, that corrodes anything it touches. Not only that, special mention has to be given to its great movement speed, made possible thanks to its eight legs. No matter how desperately one tries to get away, Dokugumon will never be far behind, and it will not stop its chase until the opponent ceases to continue running out of exhaustion. As the opponent stops to take a breather, it brings its opponent down with a fearsome, poisonous attack launched from its vile fangs (Stinger Poration).",
+        "specialMoves": [
+          "Stinger Poration",
+          "Arachno Batoto",
+          "Spider Machine Gun",
+          "Poison Sting"
+        ]
+      },
+      "9": {
+        "name": "Duramon",
+        "level": "Perfect",
+        "type": "Weapon",
+        "profile": "As it continues to sprint forward, this Perfect level Digimon is a step closer to crossing into the world on the other side. Although it knows not what future awaits it, it continues training and tempering its swords to cut through any obstacles that stand in its way. When it transforms itself into a weapon, it uses the characteristic greatsword on its back to unleash countless varieties of attacks. Its Special Moves are slicing the enemy with the blades on both arms (Grasslash), and firing a beam attack from its chest, which deals massive damage and carves a '20' mark into the enemy if it lands a direct hit (Blindead).",
+        "specialMoves": [
+          "Grasslash",
+          "Blindead"
+        ]
+      },
+      "10": {
+        "name": "Hisyaryumon",
+        "level": "Perfect",
+        "type": "Beast Dragon",
+        "profile": "A Beast Dragon Digimon clad in thick, shining scalemail and who soars the skies unbounded, taking this form when the fierce combat data of the \"dragon\" and \"general\" that lay slumbering in the depths of its Digicore was released by the Interface on its forehead. It has great mobility, allowing it control over nearly the entirety of the vast Net airspace. Its demeanor is usually sagacious and calm, akin to a god; however, the moment the crystal-like orbs it holds in both hands are scratched, its wrath will be incurred, turning it into a god of anger that will attack with all its might. Not only that, it is said that the orbs in its two hands are in actuality the souls of its fallen comrades; the orb in its right hand is the soul of \"Kinryū\", while the orb in its left hand is the soul of \"Kakuryū\", and Digicore information lies hidden within each of them. Its Special Moves are transforming itself into gigantic katana made of steel and bisecting the enemy in a single stroke (Seiryūjin), as well as surrounding the enemy from all directions and attacking (Jūouguruma).",
+        "specialMoves": [
+          "Seiryūjin",
+          "Jūouguruma",
+          "Tenryū Suishoukyū"
+        ]
+      },
+      "11": {
+        "name": "Asuramon",
+        "level": "Perfect",
+        "type": "Demon Man",
+        "profile": "A legendary Digimon which possesses four arms and three faces, it suddenly appeared within a computer as it was analyzing ancient Hindu cultural documents. Of Asuramon's three faces, one is a face of wrath, one is a face of mercy, and the last is a face of blessings. Contrary to its outer appearance, it honors justice, so it is said that if it sees injustice it will thoroughly attack it without yielding, and it can certainly be said that its personality is like an avatar of a god of light. Its Special Move \"Asura Shinken\" is a Punch Rush unleashed from its four arms, which possesses the offensive power to completely annihilate the opponent itself. Naturally, when that is used while Asuramon has its face of wrath, it is its last and strongest technique.",
+        "specialMoves": [
+          "Asura Shinken",
+          "Asura Ennetsuken",
+          "Asura Bakunenken",
+          "Kidoairaku"
+        ]
+      },
+      "12": {
+        "name": "Gyukimon",
+        "level": "Perfect",
+        "type": "Demon Beast",
+        "profile": "A Demon Beast Digimon with an ox-like upper body and a spider lower body. With a brutal and insidious personality, it is a monster that chases after those who see it for days, and launches surprise attacks from behind every night. Despite its large build, it skillfully uses its spider legs to move quietly without making a sound. The bells hanging from the tips of its horns emit a sound only when it attacks, so those who have seen Gyukimon will constantly be frightened by the sound of the bells. The dissonance produced by the bells deprives the opponent of their senses, making Gyukimon's attacks advantageous.    Its Special Moves are restraining the enemy with spider thread that it spits out from the mouth of its lower body and then spewing a highly toxic liquid (Yatsuka Senbaku), and throwing the cylinders equipped to its abdomen to spread a poisonous gas (Majin Byōtan). Digimon that sense the approach of Gyukimon and run far away are reliably brought down with its \"Senhō Tsuchigumo\", the weapon on its left arm.",
+        "specialMoves": [
+          "Yatsuka Senbaku",
+          "Majin Byōtan",
+          "Senhō Tsuchigumo"
+        ]
+      },
+      "13": {
+        "name": "Oboromon",
+        "level": "Perfect",
+        "type": "Undead",
+        "profile": "An Undead Digimon that lives in graveyards like a ghost, it is a berserker who never backs down against superior opponents and fights by any means necessary. It is thought that the reason it has an unusually intense obsession with victory is because it has taken in a large amount of hatred data from the Digimon it has defeated. On the other hand, it has virtually no sense of self, and when it isn't fighting, it wanders around the graveyard foolishly, and has occasionally been witnessed conversing suspiciously with the beast skull fused to its left arm. Although the blade protruding from the skull is brittle and breaks easily, it has the characteristic of regenerating over and over again each time it breaks.    Its Special Moves are a slash attack from its blade (Chiyorozu-no-tachi), and detaching its will-o'-the-wisp lower body and burning a vast area with flames (Rashōmon). Also, in addition to changing shape freely, the \"Yūgen\" scarf around its neck is capable of operating independently. It has versatile functions such as wrapping around and capturing the enemy, or striking them hard with the whole of the cloth.",
+        "specialMoves": [
+          "Chiyorozu-no-tachi",
+          "Rashōmon",
+          "Yūgen"
+        ]
+      },
+      "14": {
+        "name": "Durandamon",
+        "level": "Ultimate",
+        "type": "Holy Sword",
+        "profile": "A Digimon possessing the ultimate holy blade, it evolved by honing its sword to its best ability and attaining data on 'legendary swords' found in mythology and video games. Boasting strength that puts it among the strongest Legend-Arms capable of transforming into swords, it is said that wielding Durandamon in sword form will surely bring about victory. Its slashing attacks are fierce enough to cut through any sort of defense, although there have been records that only the strongest of the Legend-Arms Digimon capable of transforming into shields are able to withstand Durandamon's attacks.    Its Special Moves are focusing its fighting spirit into the blades on both arms and slicing the enemy with them (Zwanglänze), and spinning its body to slice multiple enemies in one fell swoop (Thron Messer). While both attacks are powerful enough to take enemies down in one hit, Durandamon's greatest appeal is still its ability to transform into a weapon and unleash slashing attacks.",
+        "specialMoves": [
+          "Zwanglänze",
+          "Thron Messer"
+        ]
+      },
+      "15": {
+        "name": "Ouryumon",
+        "level": "Ultimate",
+        "type": "Beast Dragon",
+        "profile": "Ouryumon is an imaginary Digimon born from the \"Daydream of a Digicore\". It is a form that had even the Digicore's own creativity miraculously released through the Interface on its brow, and evolved. Possibly because it naturally possessed the ferocious combat data of the \"Dragons\" and \"Generals\" of Japanese myth within its Digicore, the form created by its Digicore is a \"Warrior Dragon\", clad in frightening, majestic Japanese armor and holding swords in both of its hands. The left-hand sword is the \"Gairyū Sadaijin\", and the right-hand sword is the \"Gairyū Udaijin\". The blades of the wings on its back are called the \"Gaiba Daimeijin\". Its Special Moves are firing from the swords in both hands (Eiseiryūoujin), and rampaging like the earthflow of a mighty river, cutting everything apart while charging (Ougai). There is a theory that this technique has its roots in Huanglongmon's Special Move, \"Oukai\", although it isn't confirmed.",
+        "specialMoves": [
+          "Eiseiryūoujin",
+          "Ougai"
+        ]
+      },
+      "16": {
+        "name": "Zanbamon",
+        "level": "Ultimate",
+        "type": "Demon Man",
+        "profile": "A Demon Man Digimon which has the appearance of a horse-riding warrior. It is a courageous warrior who reigns as the general of the Musyamon corps. Although it is a general, it voluntarily stands at the head of its own army, and prefers fighting styles which cut into the enemy. Its lower half is fused with its horse in order to move more easily about the battlefield, so that even during a pitched battle it is able to swing its sword without losing its balance. Its Special Move is using the gigantic zanbato \"Ryūzan-maru\" it holds in its right hand to unleash its \"Uchikubi Gokumon\", which has the power to cut through the opponent's armor with its gigantic blade, regardless of whether they are defending themselves. Its \"Jūmonji Giri\" is an attack it unleashes using the youtou it holds in its left hand, which releases a shock wave, generated by the nimble swings of its slender blade, that can cut the opponent apart crosswise. Zanbamon was adopted from a winning Digimon entry in the \"Bandai-Town FAX Service Digimon Illustration Contest\" which belonged to Mr. Arata Hirayama from Chiba prefecture.",
+        "specialMoves": [
+          "Uchikubi Gokumon",
+          "Jūmonji Giri"
+        ]
+      },
+      "17": {
+        "name": "Ragna Lordmon",
+        "level": "Ultimate",
+        "type": "Unique",
+        "profile": "A Digimon born from the Jogress between Durandamon, the strongest sword among the Legend-Arms, and Bryweludramon, who is said to be the strongest shield. It is said to have been born when an evil being lurking in the depths of the Dark Area awakened, and the Digicores of the two Legend-Arms resonated with each other. Its main body, formed from the fusion of the Digicores at a higher plane, was made in the image of \"the knight that would wield them\" as imagined by Durandamon and Bryweludramon.    While Ragna Lordmon is a Jogress form, it is unusual in that it still retains Durandamon and Bryweludramon's consciousnesses, while the main body itself has its own, separate consciousness. The sword and shield hover and move out of their own wills without coming into direct contact with Ragna Lordmon; they make sport of the enemy with the way they enact their offensive and defensive maneuvers like three separate beings in one body. Their level of coordination is stunning, giving rise to its absolute defense and sudden and unpredictable, yet powerful attacks, which are nigh impossible to overcome.    Its Special Moves are bisecting the enemy in a single stroke by cleaving its sword down from a high altitude (Direct Smasher), and spewing extremely high temperature flames from its shield, turning its surroundings into a sea of fire (Ignition Prominence). Not only that, its greatest technique \"Duel Edge-Flowsion\", in which it impales the enemy with its sword wreathed in its shield's flames, completely incinerates the enemy's data right down to their Digicore and erases them without a trace.",
+        "specialMoves": [
+          "Direct Smasher",
+          "Ignition Prominence",
+          "Duel Edge-Flowsion"
+        ]
       }
     },
     "12": {
@@ -1027,18 +1166,6 @@
         "specialMoves": [
           "Hellfire",
           "Maverick"
-        ]
-      },
-      "84": {
-        "name": "Asuramon",
-        "level": "Perfect",
-        "type": "Demon Man",
-        "profile": "A legendary Digimon which possesses four arms and three faces, it suddenly appeared within a computer as it was analyzing ancient Hindu cultural documents. Of Asuramon's three faces, one is a face of wrath, one is a face of mercy, and the last is a face of blessings. Contrary to its outer appearance, it honors justice, so it is said that if it sees injustice it will thoroughly attack it without yielding, and it can certainly be said that its personality is like an avatar of a god of light. Its Special Move \"Asura Shinken\" is a Punch Rush unleashed from its four arms, which possesses the offensive power to completely annihilate the opponent itself. Naturally, when that is used while Asuramon has its face of wrath, it is its last and strongest technique.",
-        "specialMoves": [
-          "Asura Shinken",
-          "Asura Ennetsuken",
-          "Asura Bakunenken",
-          "Kidoairaku"
         ]
       },
       "85": {
@@ -4070,18 +4197,6 @@
           "Seidenki"
         ]
       },
-      "369": {
-        "name": "Dokugumon",
-        "level": "Adult",
-        "type": "Insect",
-        "profile": "A cursed Digimon in the shape of a spider, whose entire body has been parasitised by a computer virus. While it was originally a spider-type, it had a docile personality typical of insect-type Digimon; however, at some point, it was drawn into a powerful electromagnetic storm and infected by a computer virus that had been circulating around the Network. Since then, it has become but a lump of poison, or in other words a computer virus, that corrodes anything it touches. Not only that, special mention has to be given to its great movement speed, made possible thanks to its eight legs. No matter how desperately one tries to get away, Dokugumon will never be far behind, and it will not stop its chase until the opponent ceases to continue running out of exhaustion. As the opponent stops to take a breather, it brings its opponent down with a fearsome, poisonous attack launched from its vile fangs (Stinger Poration).",
-        "specialMoves": [
-          "Stinger Poration",
-          "Arachno Batoto",
-          "Spider Machine Gun",
-          "Poison Sting"
-        ]
-      },
       "370": {
         "name": "Dokunemon",
         "level": "Child",
@@ -4463,26 +4578,6 @@
           "Blutgang",
           "Gungnir",
           "Dash Blutgang"
-        ]
-      },
-      "406": {
-        "name": "Duramon",
-        "level": "Perfect",
-        "type": "Weapon",
-        "profile": "As it continues to sprint forward, this Perfect level Digimon is a step closer to crossing into the world on the other side. Although it knows not what future awaits it, it continues training and tempering its swords to cut through any obstacles that stand in its way. When it transforms itself into a weapon, it uses the characteristic greatsword on its back to unleash countless varieties of attacks. Its Special Moves are slicing the enemy with the blades on both arms (Grasslash), and firing a beam attack from its chest, which deals massive damage and carves a '20' mark into the enemy if it lands a direct hit (Blindead).",
-        "specialMoves": [
-          "Grasslash",
-          "Blindead"
-        ]
-      },
-      "407": {
-        "name": "Durandamon",
-        "level": "Ultimate",
-        "type": "Holy Sword",
-        "profile": "A Digimon possessing the ultimate holy blade, it evolved by honing its sword to its best ability and attaining data on 'legendary swords' found in mythology and video games. Boasting strength that puts it among the strongest Legend-Arms capable of transforming into swords, it is said that wielding Durandamon in sword form will surely bring about victory. Its slashing attacks are fierce enough to cut through any sort of defense, although there have been records that only the strongest of the Legend-Arms Digimon capable of transforming into shields are able to withstand Durandamon's attacks.    Its Special Moves are focusing its fighting spirit into the blades on both arms and slicing the enemy with them (Zwanglänze), and spinning its body to slice multiple enemies in one fell swoop (Thron Messer). While both attacks are powerful enough to take enemies down in one hit, Durandamon's greatest appeal is still its ability to transform into a weapon and unleash slashing attacks.",
-        "specialMoves": [
-          "Zwanglänze",
-          "Thron Messer"
         ]
       },
       "408": {
@@ -5751,16 +5846,6 @@
           "Hiden Kibakuha"
         ]
       },
-      "520": {
-        "name": "Ginryumon",
-        "level": "Adult",
-        "type": "Beast Dragon",
-        "profile": "A Beast Dragon Digimon whose entire body is clad in sturdy, Japanese-styled armor. Despite what its appearance may suggest, it has a light body that allows it to glide gracefully in mid-air, and it fights while parrying enemy attacks with its tough yet smooth armor. It does not cower before any enemy Digimon and excels at attacking with exceptional breakthrough ability, using its courage at parrying enemy attacks using its own body, and eyesight that allows it to detect enemy attacks right before they hit. It is hypothesized to be a \"Prototype Digimon\" due to the outdated Interface on its forehead. Its Special Move is impaling the enemy with an iron spear fired from its mouth (Tekkoujin). Its Signature Move is parrying enemy attacks with its armor and charging at the enemy (Boujinha).",
-        "specialMoves": [
-          "Tekkoujin",
-          "Boujinha"
-        ]
-      },
       "521": {
         "name": "Giromon",
         "level": "Perfect",
@@ -6523,17 +6608,6 @@
           "Colony Torpedo"
         ]
       },
-      "589": {
-        "name": "Gyukimon",
-        "level": "Perfect",
-        "type": "Demon Beast",
-        "profile": "A Demon Beast Digimon with an ox-like upper body and a spider lower body. With a brutal and insidious personality, it is a monster that chases after those who see it for days, and launches surprise attacks from behind every night. Despite its large build, it skillfully uses its spider legs to move quietly without making a sound. The bells hanging from the tips of its horns emit a sound only when it attacks, so those who have seen Gyukimon will constantly be frightened by the sound of the bells. The dissonance produced by the bells deprives the opponent of their senses, making Gyukimon's attacks advantageous.    Its Special Moves are restraining the enemy with spider thread that it spits out from the mouth of its lower body and then spewing a highly toxic liquid (Yatsuka Senbaku), and throwing the cylinders equipped to its abdomen to spread a poisonous gas (Majin Byōtan). Digimon that sense the approach of Gyukimon and run far away are reliably brought down with its \"Senhō Tsuchigumo\", the weapon on its left arm.",
-        "specialMoves": [
-          "Yatsuka Senbaku",
-          "Majin Byōtan",
-          "Senhō Tsuchigumo"
-        ]
-      },
       "590": {
         "name": "Hackmon",
         "level": "Child",
@@ -6749,17 +6823,6 @@
         "specialMoves": [
           "Heat Wave",
           "Sonic Voice"
-        ]
-      },
-      "610": {
-        "name": "Hisyaryumon",
-        "level": "Perfect",
-        "type": "Beast Dragon",
-        "profile": "A Beast Dragon Digimon clad in thick, shining scalemail and who soars the skies unbounded, taking this form when the fierce combat data of the \"dragon\" and \"general\" that lay slumbering in the depths of its Digicore was released by the Interface on its forehead. It has great mobility, allowing it control over nearly the entirety of the vast Net airspace. Its demeanor is usually sagacious and calm, akin to a god; however, the moment the crystal-like orbs it holds in both hands are scratched, its wrath will be incurred, turning it into a god of anger that will attack with all its might. Not only that, it is said that the orbs in its two hands are in actuality the souls of its fallen comrades; the orb in its right hand is the soul of \"Kinryū\", while the orb in its left hand is the soul of \"Kakuryū\", and Digicore information lies hidden within each of them. Its Special Moves are transforming itself into gigantic katana made of steel and bisecting the enemy in a single stroke (Seiryūjin), as well as surrounding the enemy from all directions and attacking (Jūouguruma).",
-        "specialMoves": [
-          "Seiryūjin",
-          "Jūouguruma",
-          "Tenryū Suishoukyū"
         ]
       },
       "611": {
@@ -10412,17 +10475,6 @@
           "Unidentified Aerial Phenomenon"
         ]
       },
-      "941": {
-        "name": "Oboromon",
-        "level": "Perfect",
-        "type": "Undead",
-        "profile": "An Undead Digimon that lives in graveyards like a ghost, it is a berserker who never backs down against superior opponents and fights by any means necessary. It is thought that the reason it has an unusually intense obsession with victory is because it has taken in a large amount of hatred data from the Digimon it has defeated. On the other hand, it has virtually no sense of self, and when it isn't fighting, it wanders around the graveyard foolishly, and has occasionally been witnessed conversing suspiciously with the beast skull fused to its left arm. Although the blade protruding from the skull is brittle and breaks easily, it has the characteristic of regenerating over and over again each time it breaks.    Its Special Moves are a slash attack from its blade (Chiyorozu-no-tachi), and detaching its will-o'-the-wisp lower body and burning a vast area with flames (Rashōmon). Also, in addition to changing shape freely, the \"Yūgen\" scarf around its neck is capable of operating independently. It has versatile functions such as wrapping around and capturing the enemy, or striking them hard with the whole of the cloth.",
-        "specialMoves": [
-          "Chiyorozu-no-tachi",
-          "Rashōmon",
-          "Yūgen"
-        ]
-      },
       "942": {
         "name": "Ochi Musyamon",
         "level": "Unknown",
@@ -10829,16 +10881,6 @@
         "specialMoves": [
           "Lullaby Bubble",
           "Smiley Headbutt"
-        ]
-      },
-      "978": {
-        "name": "Ouryumon",
-        "level": "Ultimate",
-        "type": "Beast Dragon",
-        "profile": "Ouryumon is an imaginary Digimon born from the \"Daydream of a Digicore\". It is a form that had even the Digicore's own creativity miraculously released through the Interface on its brow, and evolved. Possibly because it naturally possessed the ferocious combat data of the \"Dragons\" and \"Generals\" of Japanese myth within its Digicore, the form created by its Digicore is a \"Warrior Dragon\", clad in frightening, majestic Japanese armor and holding swords in both of its hands. The left-hand sword is the \"Gairyū Sadaijin\", and the right-hand sword is the \"Gairyū Udaijin\". The blades of the wings on its back are called the \"Gaiba Daimeijin\". Its Special Moves are firing from the swords in both hands (Eiseiryūoujin), and rampaging like the earthflow of a mighty river, cutting everything apart while charging (Ougai). There is a theory that this technique has its roots in Huanglongmon's Special Move, \"Oukai\", although it isn't confirmed.",
-        "specialMoves": [
-          "Eiseiryūoujin",
-          "Ougai"
         ]
       },
       "979": {
@@ -16321,17 +16363,6 @@
           "The World Shot"
         ]
       },
-      "1470": {
-        "name": "Zanbamon",
-        "level": "Ultimate",
-        "type": "Demon Man",
-        "profile": "A Demon Man Digimon which has the appearance of a horse-riding warrior. It is a courageous warrior who reigns as the general of the Musyamon corps. Although it is a general, it voluntarily stands at the head of its own army, and prefers fighting styles which cut into the enemy. Its lower half is fused with its horse in order to move more easily about the battlefield, so that even during a pitched battle it is able to swing its sword without losing its balance. Its Special Move is using the gigantic zanbato \"Ryūzan-maru\" it holds in its right hand to unleash its \"Uchikubi Gokumon\", which has the power to cut through the opponent's armor with its gigantic blade, regardless of whether they are defending themselves. Its \"Jūmonji Giri\" is an attack it unleashes using the youtou it holds in its left hand, which releases a shock wave, generated by the nimble swings of its slender blade, that can cut the opponent apart crosswise. Zanbamon was adopted from a winning Digimon entry in the \"Bandai-Town FAX Service Digimon Illustration Contest\" which belonged to Mr. Arata Hirayama from Chiba prefecture.",
-        "specialMoves": [
-          "Uchikubi Gokumon",
-          "Jūmonji Giri",
-          "[N 2]"
-        ]
-      },
       "1471": {
         "name": "Zanmetsumon",
         "level": "Perfect",
@@ -16426,16 +16457,6 @@
           "[N 3]",
           "[N 3]",
           "[N 4]"
-        ]
-      },
-      "1479": {
-        "name": "Zubaeagermon",
-        "level": "Adult",
-        "type": "Weapon",
-        "profile": "\"I, who am the Twentiest, will never halt! I'm going to keep on running forth!\" With those words carved into Zubamon's heart, it evolved into a form that embodies that forward-charging style. Zubaeagermon's policy is simply to continue charging forth without pause, no matter if smooth or rough terrain awaits it, or even if it has to crawl and struggle to continue forward.    Its Special Moves are thrusting straight into the enemy's chest while shouting \"Twentiestttt!!\" (Road T(w)o Decade), and curling its body into a ball and spinning towards the enemy, slicing them with its tail blade (Vingtième). Not only that, by transforming itself into its prided sword form, it is able to slice through any enemy using 100% of its strength.",
-        "specialMoves": [
-          "Road T(w)o Decade",
-          "Vingtième"
         ]
       },
       "1480": {
