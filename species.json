@@ -3,8 +3,8 @@ name=species.json
   "version": 1,
   "updatedAt": "2026-09-06",
   "species": {
-    "034": {
-      "01": {
+    "34": {
+      "1": {
         "name": "Sakumon",
         "level": "Baby I",
         "type": "Weapon",
