@@ -3,28 +3,28 @@
   "updatedAt": "2026-09-06",
   "species": {
     "34": {
-      "01": {
+      "1": {
         "name": "Sakumon",
         "level": "Baby I",
         "type": "Weapon",
         "profile": "A tiny Digimon with a single blade protruding from its head. Its whole body is golden, and the blade on its head shines very brightly. Its personality is mischievous and it is constantly moving as long as it is awake, but it is bad at balancing due to the weight of its head, so surrounding Digimon can occasionally be seen running around trying to escape because of it swinging its blade as it rolls around.",
         "specialMoves": ["Sakkuri"]
       },
-      "02": {
+      "2": {
         "name": "Sakuttomon",
         "level": "Baby II",
         "type": "Weapon",
         "profile": "A Baby Digimon that evolved from Sakumon, and that now has two blades. Its balance has been stabilized by the blades now positioned on its left and right side, as well as with the addition of its small feet. While it has stopped rolling around and become more active, getting stuck in a ceiling or wall will cause it to be unable to move.",
         "specialMoves": ["Sakusaku"]
       },
-      "03": {
+      "3": {
         "name": "Zubamon",
         "level": "Child",
         "type": "Weapon",
         "profile": "One of the 'Legend-Arms', who are capable of transforming themselves into weapons. A legend about the Legend-Arms goes, “if held by an angel it will save the world, and if held by a demon it will destroy the world.” Zubamon carries the ”Twentiest” data, and often shouts out “I am the Twentiest!” despite not understanding what it means. It despises crookedness, and is constantly seeking sharpness. A day where its battles, jokes, and sharpness turn out well will leave it in high spirits. Although it has a technique, 'Twenty Dive', in which it charges head-first, Zubamon's true power is exhibited while it is in its weapon form.",
         "specialMoves": ["Twenty Dive", "20 Scratch"]
       },
-      "04": {
+      "4": {
         "name": "Ryudamon",
         "level": "Child",
         "type": "Beast",
