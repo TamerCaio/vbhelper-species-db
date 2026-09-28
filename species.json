@@ -10134,6 +10134,769 @@
           "Revolutio Rerum",
           "[N 1]"
         ]
+      },
+      "1573": {
+        "name": "Scumon",
+        "level": "Adult",
+        "type": "Mutant",
+        "profile": "A repulsive, po*p-shaped Digimon that shines golden. It was born from the accumulation and mutation of scrap data thrown into the recycle bin of a computer desktop. It likes dark places, and being a pile of scrap data, it is similar to Numemon in that it is often hated by other Digimon. Its intelligence and offensive ability are nonexistent. Its partner, Tyumon, is a small rat-like Digimon who does not fight, but is unparalleled when it comes to cunning and is always coaxing Scumon into performing bad deeds.",
+        "specialMoves": [
+          "Unchi",
+          "Unchi Paradise",
+          "Kuuchuu Unchi Paradise",
+          "Unchi Nage",
+          "Kousoku Unchi Nage",
+          "Unchi Slider",
+          "Dash Unchi Slider",
+          "Kūchū Unchi Slider",
+          "Dappun Pheromone",
+          "Yakekuso Smash",
+          "Double Attack",
+          "Scar Nail"
+        ]
+      },
+      "1574": {
+        "name": "Beso Bombmon",
+        "level": "(?)",
+        "type": "Unknown",
+        "profile": "An unreleased Digimon from the 3rd FAX Contest.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1575": {
+        "name": "Danmon",
+        "level": "(?)",
+        "type": "Unknown",
+        "profile": "An unreleased Digimon from the 3rd FAX Contest.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1576": {
+        "name": "Earthdramon",
+        "level": "Adult",
+        "type": "Unknown",
+        "profile": "A mysterious dragon Digimon said to be the complement of Airdramon and Seadramon. From the FAX Contest.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1577": {
+        "name": "Great King Scumon",
+        "level": "Perfect",
+        "type": "Mutation",
+        "profile": "The King of Scumon who rules over a landfill called \"Dust Kingdom\", its size is gargantuan. It wears something similar to a crown and is highly intelligent, and attacks with brute force in addition to throwing poop. Its Special Moves are a familiar cowardly technique (Unchi Nage), and falling swiftly after performing a high jump (King Stamp). The damage done both physically and mentally when suffering its \"King Stamp\" is said to be unfathomable.",
+        "specialMoves": [
+          "Unchi Nage",
+          "King Stamp",
+          "Henshin no Jutsu",
+          "Soul of Suka",
+          "Net Worm"
+        ]
+      },
+      "1578": {
+        "name": "Huntermon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "Huntermon is a Contest Digimon.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1579": {
+        "name": "Kaminarimon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "A Lightning-species monster that loves festivals.    Special Move: When it flaps the fan on its back, its \"Kaminari-okoshi\" attack will burst forth.",
+        "specialMoves": [
+          "Kaminari-okoshi"
+        ]
+      },
+      "1580": {
+        "name": "Kandoushichaundamon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "An unused Digimon from the 3rd FAX Contest.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1581": {
+        "name": "Karatuki Numemon",
+        "level": "Adult",
+        "type": "Crustacean",
+        "profile": "A Crustacean Digimon, it was a Numemon that made use of its intelligence and found a shell to cover itself in order to protect its body. As a result, while it is slightly more intelligent than Numemon, it in turn grew a cowardly personality, and will retreat into its shell in shock at even the slightest disturbance. Its defense is extremely high while it is holed up in its shell, remaining firm even when it is kicked or stepped on. Its Special Move is hiding its body within its shell and using its shell to do a tackle (Shell's Attack), and throwing the large amounts of poop it has stored within its shell (Jukusei Unchi).",
+        "specialMoves": [
+          "Shell's Attack",
+          "Jukusei Unchi",
+          "Tai Atari",
+          "Unchi Rain",
+          "Maimai Oddo",
+          "Nume Tai Atari"
+        ]
+      },
+      "1582": {
+        "name": "Nikkorimon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "An unused digimon from the 1st FAX Contest.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1583": {
+        "name": "Platinum Scumon",
+        "level": "Adult",
+        "type": "Mutation",
+        "profile": "A po*p-shaped Digimon that shines like platinum. It is a species of Scumon that absorbed the data of minor metals, giving it a luxurious appearance, but its abilities are at the same level as Scumon's. It appears to not have powered-up in any significant way. Its Special Move is flinging metallic, shining po*p at the enemy (Rare Metal Unchi).",
+        "specialMoves": [
+          "Rare Metal Unchi",
+          "Trance Mesmer",
+          "Unchi Slider",
+          "Metallic Guard",
+          "Scar Nail"
+        ]
+      },
+      "1584": {
+        "name": "Punch Narabimon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "Punch Narabimon is a Contest Digimon.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1585": {
+        "name": "Zombiemon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "An unused digimon from the 4th FAX Contest.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1586": {
+        "name": "Cheer Galmon",
+        "level": "Armor",
+        "type": "Unknown",
+        "profile": "just for entertainment L-O-V-E! Lovely, lovely Mimi! L-O-V-E! Lovely, lovely Mimi!",
+        "specialMoves": []
+      },
+      "1587": {
+        "name": "Kita Kitsunemon",
+        "level": "Armor",
+        "type": "Unknown",
+        "profile": "fanmade Kita Kitsunemon is a senile old man.",
+        "specialMoves": []
+      },
+      "1588": {
+        "name": "Kyukanchoumon",
+        "level": "Armor",
+        "type": "Unknown",
+        "profile": "fanmade Kyukanchoumon is a giant parrot that repeats embarrassing things about others.",
+        "specialMoves": []
+      },
+      "1589": {
+        "name": "Urashimamon",
+        "level": "Armor",
+        "type": "Unknown",
+        "profile": "fanmade Urashimamon apparently has trouble swimming and is prone to drowning.",
+        "specialMoves": []
+      },
+      "1590": {
+        "name": "D-Reaper ADR-03",
+        "level": "Unknown",
+        "type": "Aerial Assault",
+        "profile": "A small, offensive agent that flies four sub-agents and copies the abilities of its opponents, making it a troublesome opponent.",
+        "specialMoves": [
+          "Housenka",
+          "Shadow Sickle"
+        ]
+      },
+      "1591": {
+        "name": "D-Reaper ADR-05",
+        "level": "Unknown",
+        "type": "Grappling",
+        "profile": "A medium-sized agent with great power. Its arms have a spiral structure and can extend to any direction.",
+        "specialMoves": [
+          "Rasen no Benwan",
+          "Squeeze Vine"
+        ]
+      },
+      "1592": {
+        "name": "Gaiamon",
+        "level": "Ultimate",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1593": {
+        "name": "Löwemon",
+        "level": "Hybrid",
+        "type": "Warrior",
+        "profile": "A Digimon that truly inherited the \"Spirit of Darkness\" of the legendary Ten Warriors. The \"Spirit of Darkness\" was changed into its Duskmon form due to Cherubimon's spell, but Löwemon is its true form released from this magical power. This form is by no means a baleful one, and is called the battling \"Valiant Jet-black Warrior\" that becomes the shadow of the other Ten Warriors. Even on its own, its power is comparable to \"Fusion-species\" like Aldamon, and it is said that it conceals its power that puts the others to shame within the \"Neebelnge Ring\" placed on its right index finger. As a master of spearmanship, it is an \"Executor of Darkness\" that pierces evil with the \"Danzai no Yari\", and purifies it with the \"Shokuzai no Tate\". Its Special Moves are blasting the opponent with an intense spear attack (Ewig Schlaf), and firing a golden energy wave from the lion on its chest (Endlich Meteor).",
+        "specialMoves": [
+          "Ewig Schlaf",
+          "Endlich Meteor",
+          "Blitzen Speer",
+          "Dunkel Schneiden",
+          "Luft Endlich Meteor",
+          "Dunkel Messer",
+          "Dunkel Rakete",
+          "Dunkel Sarg",
+          "Intensiv Endlich Meteor",
+          "Luft Intensiv Endlich Meteor"
+        ]
+      },
+      "1594": {
+        "name": "Thunderbirmon",
+        "level": "Armor",
+        "type": "Giant Bird",
+        "profile": "A Giant Bird Digimon that \"Armor Evolved\" with the \"Digimental of Friendship\". It has the ability to summon thunder clouds with an echoing cry like thunder, and control thunder with the horn on its brow. Although it has a rough temperament, it has a caring nature for its comrades. Its Signature Move is firing out countless electrically-charged feathers like rain (Spark Wing). Its Special Move is flapping wings clad in electricity, generating a storm of lightning (Thunder Storm).",
+        "specialMoves": [
+          "Spark Wing",
+          "Thunderstorm"
+        ]
+      },
+      "1595": {
+        "name": "Trailmon",
+        "level": "Adult",
+        "type": "Machine",
+        "profile": "A large Digimon that has become a means of transportation in the Digital World. Various types operate on each line, carrying Digimon and cargo from terminal to terminal across all parts of the Digital World. Its Special Moves are rushing at tremendous speed (Cool Running), and suddenly braking right in front of the enemy, sending hot sparks flying (Kyū Brake Spark).",
+        "specialMoves": [
+          "Cool Running",
+          "Kyū Brake Spark"
+        ]
+      },
+      "1596": {
+        "name": "Anomalocarimon (X-Antibody)",
+        "level": "Perfect",
+        "type": "Ancient Crustacean",
+        "profile": "A computer virus infected the databanks of a laboratory where the investigations and excavations of ancient life forms is preformed, and took in the data of an ancient life form and evolved. It became like the life form which in ancient times was the apex of the food chain, which had a great appetite and supplied it with an ability capable of allowing it to see food that was of the finest quality. Skillfully using the tentacles that grow from its head, it catches the enemy and kills them with the sharp blade that grows from its tail. When the progression of a fight becomes disadvantageous, it uses its sharp tentacles to hoist up the soil of the seabed to hide its body. The radar eye that projects from its head captures the enemy like a night vision scope, watching for the chance to create a turnabout. Its Special Move is crossing its right and left forelimbs and shooting with \"Stinger Surprise\".AnomalocarimonHaving survived in the intensely competitive Net Ocean since ancient times, Anomalocarimon took in all the elements within the ocean into its carapace and acquired its camouflage ability \"Ghost Surprise\", which is considered to be a form of active camouflage. Despite losing that ability on land, it is difficult to see Anomalocarimon while underwater, leading to it possessing the terrifying ability to attack while also being invisible to other Digimon.",
+        "specialMoves": [
+          "Stinger Surprise",
+          "Ghost Surprise",
+          "Tail Blade"
+        ]
+      },
+      "1597": {
+        "name": "AnheiNüwashou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "fanmade Nüwashou was infected by a dark digital virus and turned into evil. It did a tyrannical modification to all Digital divine general of 28 mansions.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1598": {
+        "name": "Daxiongmaoshou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1599": {
+        "name": "Daxuerenshou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "fanmade This digimon has four eyes and many big mouths on its back.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1600": {
+        "name": "Heshouwushou",
+        "level": "Adult",
+        "type": "Man",
+        "profile": "",
+        "specialMoves": [
+          "Jiědúbàngchui"
+        ]
+      },
+      "1601": {
+        "name": "Jinsihoushou",
+        "level": "Child",
+        "type": "Beast Man",
+        "profile": "fanmade A shy digimon by nature.",
+        "specialMoves": [
+          "Jīnsīfàngshè"
+        ]
+      },
+      "1602": {
+        "name": "Kuileishou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "fanmade This kind of digimon is composed of multiple individuals, their foreheads are numbered.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1603": {
+        "name": "Kuimulangshou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1604": {
+        "name": "Loujin'goushou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1605": {
+        "name": "Nutufushou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "fanmade Its hands can emit shock waves.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1606": {
+        "name": "Nüwashou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "fanmade Nüwashou created Shenzhou with Fuxishou and rules over Shenzhou in the present.",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1607": {
+        "name": "PalaPandashou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "Jízǒunùjī"
+        ]
+      },
+      "1608": {
+        "name": "Shoujishou",
+        "level": "Child",
+        "type": "Beast Man",
+        "profile": "",
+        "specialMoves": [
+          "Duǎnxìnsāorǎo",
+          "Língshēnghōngzhà"
+        ]
+      },
+      "1609": {
+        "name": "Suannishou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "Pīkōngzhǎn"
+        ]
+      },
+      "1610": {
+        "name": "TalaPandashou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "Bàozǒubàjī"
+        ]
+      },
+      "1611": {
+        "name": "Unnamed Digimon 1 (Legendary Skies)",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1612": {
+        "name": "Unnamed Digimon 2 (Legendary Skies)",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1613": {
+        "name": "Xinyuehushou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1614": {
+        "name": "Zhilongshou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "Qiánlóngshēngtiān"
+        ]
+      },
+      "1615": {
+        "name": "Zhuhuanshou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "Luóxuántū"
+        ]
+      },
+      "1616": {
+        "name": "Zihuohoushou",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "Bàoyánxiàndàn"
+        ]
+      },
+      "1617": {
+        "name": "Matadrmon",
+        "level": "Perfect",
+        "type": "Undead",
+        "profile": "A bloodsucking martial artist Digimon that performs a magnificent dance. It is said that it was born from the folk-dance database of a certain museum, and that it has mastered the unique steps of the \"Bulldog\". It uses its fluttering garment to deceive the opponent, and when the opponent drops its guard from a glance at the soft-colored cloth, it falls upon them with the countless rapiers stocked on its arms. Because it is a vampire, it can't survive unless it sucks a Digimon's blood, but as not just anyone will do, it seeks only the blood of strong Digimon and seems to constantly be moving from place to place. Its Special Moves are its \"Thousand Arrow\", unleashed from rapiers stocked on its arms, and a mighty kicking technique drawn from its unique martial art, the \"Bulldog\" (Chouzetsu Rappashū).",
+        "specialMoves": [
+          "Thousand Arrow",
+          "Bulldog",
+          "Chouzetsu Rappashū"
+        ]
+      },
+      "1618": {
+        "name": "Agumon (2006 Anime Version)",
+        "level": "Child",
+        "type": "Dinosaur",
+        "profile": "A unique Agumon which has bound red leather belts around its arms, its maturation is presumed to differ from its traditional evolutions. As it's still growing, its power is weak, but it has grown hard, sharp claws on its hands and feet, and demonstrates its power in battle. Its Special Move is spewing flaming breath from its mouth, striking the opponent (Baby Flame). Also, it can amass \"Baby Flame\" in its mouth and then spew it out all at once (Baby Burner), which is much more powerful.",
+        "specialMoves": [
+          "Baby Flame",
+          "Baby Burner",
+          "Baby Volcano",
+          "Baby Claw",
+          "Motto Surudoi Tsume",
+          "Surudoi Tsume"
+        ]
+      },
+      "1619": {
+        "name": "Falcomon (2006 Anime Version)",
+        "level": "Child",
+        "type": "Bird",
+        "profile": "A subspecies of Falcomon whose wings have developed to allow it to fly freely in the air, in contrast to normal Falcomon, who possess powerful leg strength. Despite its ability to fly, it seems to be obsessed with making its appearance from above by flying in on a kite, like a ninja. Its Special Moves are scratching the opponent with the claws on its wings (Scratch Smash), and repeatedly throwing 4-point shuriken made out of hardened feathers (Shuririnken). Furthermore, it also specialises in dropping small bombs from above while it is riding its kite (Uchitake Otoshi).",
+        "specialMoves": [
+          "Scratch Smash",
+          "Shuririnken",
+          "Uchitake Otoshi",
+          "Fuujin no Jutsu",
+          "Falco Rush",
+          "Genwaku no Jutsu",
+          "Kuchibashi Attack"
+        ]
+      },
+      "1620": {
+        "name": "Unnamed Trailmon 1 (Next)",
+        "level": "Adult",
+        "type": "Machine",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1621": {
+        "name": "Unnamed Trailmon 2 (Next)",
+        "level": "Adult",
+        "type": "Machine",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1622": {
+        "name": "Unnamed Trailmon 3 (Next)",
+        "level": "Adult",
+        "type": "Machine",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1623": {
+        "name": "Yatagaramon (2006 Anime Version)",
+        "level": "Perfect",
+        "type": "Bewitching Bird",
+        "profile": "This three-legged, bizarre Bewitching Bird Digimon is a subspecies of Yatagaramon. Although its jet-black body gives it an evil image to those who see it, it is told to be the Digimon who guides the chosen to the \"Golden Land\" in the eastern part of the Digital World. The eastern part of the Digital World is a region still shrouded in much mystery, and it is said that the \"Golden Land\" is protected by multiple sacred barriers. Although it is said that with Yatagaramon's guidance the barriers will be released, according to oral tradition, only those who surmount the \"Threefold Trials\" given by Yatagaramon will finally arrive at the \"Golden Land\", and those who were not able to endure the trials are dispatched to the Dark Area. Its Special Move is concentrating the energy produced from the Dokkosho on both of its wings in its forelegs, then firing it (Mikafutsu-no-kami). Digimon who have suffered this technique have their digital cells disassembled to a state of \"0\"s and \"1\"s. Also, it is able to transform the surrounding 3 km into a dark night by means of its \"Haguro\", a black light emitted from its jet-black feathers.",
+        "specialMoves": [
+          "Mikafutsu-no-kami",
+          "Haguro",
+          "Gurendama",
+          "Gurensou",
+          "Urin",
+          "Delta",
+          "Dokkosho"
+        ]
+      },
+      "1624": {
+        "name": "Greymon (Orange)",
+        "level": "Unknown",
+        "type": "Dinosaur",
+        "profile": "A Tyrannosaurus-type Dinosaur Digimon. As a Digimon specializing in offensive power, its combat instinct is extremely high, and its cruel, brutal nature is such that it will not stop battling until it annihilates the opponent. It is said that its coloration is more conspicuous than even the normal Greymon due to its absolute confidence in battle.",
+        "specialMoves": [
+          "Megalo Flame",
+          "Blaster Tail II",
+          "Horn Strike Force"
+        ]
+      },
+      "1625": {
+        "name": "Metal Garurumon (Red)",
+        "level": "Unknown",
+        "type": "Cyborg",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1626": {
+        "name": "Mirror Ballmon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "fanmade A digimon that is used by Lilithmon in order to control other digimon. Its upcoming appearance was announced in V-Jump, but it has yet to actually show up anywhere...",
+        "specialMoves": [
+          "???"
+        ]
+      },
+      "1627": {
+        "name": "Shoutmon (Black)",
+        "level": "Unknown",
+        "type": "Small Dragon",
+        "profile": "A ferocious Small Dragon-type Digimon with high bloodlust and aggression. It is often seen at night, singing lullabies in a rocking style, seemingly every night. It has been seen performing live for sleepless Digimon.",
+        "specialMoves": [
+          "Soul Arbalest",
+          "Rock Damashī Great",
+          "Break Rocker"
+        ]
+      },
+      "1628": {
+        "name": "Shoutmon (Yellow)",
+        "level": "None",
+        "type": "Small Dragon",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1629": {
+        "name": "Skull Knightmon (Blue)",
+        "level": "Unknown",
+        "type": "Undead",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1630": {
+        "name": "Skull Knightmon (Red)",
+        "level": "Unknown",
+        "type": "Undead",
+        "profile": "Deadly Axemon's older brother. As a Knight that excels at being cunning, it regards victory with great importance. Its body, which is red like blood, is proof it has gone through and won countless battles.",
+        "specialMoves": [
+          "Spear Needle Blood",
+          "Giga Spear Needle",
+          "Breast-eye Wave"
+        ]
+      },
+      "1631": {
+        "name": "Armamon: Burst Mode",
+        "level": "Ultimate",
+        "type": "Weapon",
+        "profile": "A form of Armamon that awakened its power as a swordsman by drawing the various famous swords in its treasured collection.    Despite losing the ability to transform into a weapon, it has four large arms extending from its back for wielding a variety of weapons, allowing it to unleash sword techniques suited to any situation.    Records show that an individual appeared who once merged with a special system and gained tremendous power.    Its Special Moves are unleashing an enormous slash attack by swinging its six swords (Sword of Meteor), and making the swords floating around it pour down over the opponent's head like rain (Infinity Sword Rain).",
+        "specialMoves": [
+          "Sword of Meteor",
+          "Infinity Sword Rain",
+          "Hell & Thunder",
+          "Heaven & Break",
+          "Ice & Fire",
+          "Data to Data",
+          "Omega Death Blade"
+        ]
+      },
+      "1632": {
+        "name": "Chokimon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1633": {
+        "name": "Guumon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1634": {
+        "name": "Paamon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1635": {
+        "name": "Yaeger Dorulumon",
+        "level": "Perfect",
+        "type": "Beast Man",
+        "profile": "An evolution of Dorulumon that became able to walk on two legs. It has taken the appearance of a knight equipped with the gigantic, drill-shaped spear \"Sturm Stinger\" and its slash-and-defend dual-use \"Zasshu Shield\". Its ability for single-point penetration is the best, and because of this distinctive characteristic, it leads single-unit charges on its enemies to break open escape routes for those behind it to follow.    Its Special Moves are piercing any enemy with the Sturm Stinger (Weiß Spirale), and tearing them to pieces with the Zasshu Shield (Schwarz Nagel).",
+        "specialMoves": [
+          "Weiß Spirale",
+          "Schwarz Nagel"
+        ]
+      },
+      "1636": {
+        "name": "Huckmon",
+        "level": "Child",
+        "type": "Small Dragon",
+        "profile": "A Small Dragon Digimon that shines a cool white. Its unfettered and restraint-hating, adventure-loving way of life is likely due to Gankoomon's DNA. It faces the rigorous trials imposed by Gankoomon with an air of composure. It has a masterful sense of combat due to its lineage, and because of its training with its chaperones, the Sistermon sisters, it can more than hold its own in battle against its opponents even if they're a Perfect. It specializes in close combat that capitalizes on its keenness, cutting the opponent to pieces with its sturdy claws (Fif Slash), rotating its tail like a drill and thrusting it into the opponent (Teen Ram), and spewing \"Baby Flame\" from its mouth, which is also usable as a diversion. It follows its dreams of becoming a Royal Knight like Gankoomon as it fights through continuous battles.",
+        "specialMoves": [
+          "Fif Slash",
+          "Teen Ram",
+          "Baby Flame"
+        ]
+      },
+      "1637": {
+        "name": "Sistermon Blanc (Awakened)",
+        "level": "Child",
+        "type": "Puppet",
+        "profile": "Another form of Sistermon Blanc. The Holy Stigma appears at the center of the wimple on its head, and it awakens. Its reserved personality completely changes upon entering this state, rushing about the battlefield with frenzied movements obeying its battle instincts laid bare. When it reverts from its awakened state, it instantly falls into a gentle sleep, making its previous violence seem inconceivable.",
+        "specialMoves": [
+          "Divine Pierce (Kakusei)",
+          "Protect Wave (Kakusei)",
+          "Grand Sister Cruz (Kakusei)"
+        ]
+      },
+      "1638": {
+        "name": "Sistermon Noir (Awakened)",
+        "level": "Adult",
+        "type": "Puppet",
+        "profile": "Another form of Sistermon Noir. Wearing the wimple on its head causes the Holy Stigma to appear on its chest, awakening its power. Its keenness has risen due the feral power drawn out by its awakening, and it brings down the enemy with a stooped-over stance.",
+        "specialMoves": [
+          "Mickey Bullet (Kakusei)",
+          "Bless Fire (Kakusei)",
+          "Grand Sister Cruz (Kakusei)"
+        ]
+      },
+      "1639": {
+        "name": "Bao Huckmon",
+        "level": "Adult",
+        "type": "Dinosaur",
+        "profile": "Huckmon underwent bouts of harsh training, honing its unparalleled battle instincts, and attained this form as it grew together with its spirit, technique, and physical strength. It continues its training as it aims for greater heights, amassing combat experience by battling strong foes and evolving into a skilled warrior the more it battles. As it matures, its aspiration of becoming a Royal Knight grows ever stronger, and it believes that what it is destined to achieve is determined not by what others tell it, but by deciding based on its own observations and inferences. Its Special Moves have all been powered up, and consist of slashing with its claws (Fif Cross), as well as rotating the blade on its tail about its axis and stabbing with it (Teen Blade); the move Burn Flame that it is capable of using for counterattacking has also risen in power remarkably. Furthermore, it is also able to bisect the enemy using the razor-sharp blades that protrude from its hind limbs (Dragless-spiker).",
+        "specialMoves": [
+          "Fif Cross",
+          "Teen Blade",
+          "Burn Flame",
+          "Dragless-spiker"
+        ]
+      },
+      "1640": {
+        "name": "Savior Huckmon",
+        "level": "Perfect",
+        "type": "Dragon Man",
+        "profile": "It evolved into this form after repeatedly meeting and parting with Digimon over its long journey, and living through countless fierce battles. It militarily intervenes in the strife that occurs incessantly throughout the Digital World, seeking ceasefires, and has brought aid to the Digimon on-site who have suffered harm. The result is not always a success, but the tears Savior Huckmon sheds before those tragic scenes strengthen it further, as it earnestly reaches out to the next Digimon that cries for help. It is capable of using its legs to walk bipedally despite them being blades; in addition, crimson blades extend from both of its arms and its tail, and its blade-covered body exudes an aggressive air. The crystal in its chest is a crystallisation of proof that it refined its power with no lack of effort. Its Special Moves are skewering through the enemy from a flying kick posture with the blades on its feet (Resist Raid), and rapid-firing shots of fire from its mouth like a machine gun, incinerating the enemy (Meteor Flame). Its \"Trident Saber\", which assaults the enemy with the three red blades its tail and arms are equipped with, relentlessly cleaves them apart whether or not they're swathed in Chrome Digizoid.",
+        "specialMoves": [
+          "Resist Raid",
+          "Meteor Flame",
+          "Trident Saber"
+        ]
+      },
+      "1641": {
+        "name": "Montana-chan",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": [
+          "Chameleon Lick",
+          "LeroLero Punch"
+        ]
+      },
+      "1642": {
+        "name": "Sistermon Ciel (Awakened)",
+        "level": "Adult",
+        "type": "Puppet",
+        "profile": "Another form of Sistermon Ciel that has awakened. Wearing the wimple causes the Holy Stigma to appear on its abdomen. Its cherished sword, the \"Shirotsume-Ichimonji\", harbors light within its blade, and becomes sharper with each swing. It displays elegant swordsmanship in lockstep with the radiance of its cherished sword, and the moment light overflows from its sword is precisely when it turns into a sword dance that fascinates those who see it.",
+        "specialMoves": [
+          "Shirotsume Ichimonji-giri (Kakusei)",
+          "Byakusai (Kakusei)",
+          "Tohho (Kakusei)"
+        ]
+      },
+      "1643": {
+        "name": "Sakuyamon (X-Antibody)",
+        "level": "Ultimate",
+        "type": "God Man",
+        "profile": "A Digimon that holds the role of a miko, acting as an agent of God's will. Like Taomon, it freely uses Onmyoudou techniques in battle, and has the ability to employ God Beast-species Digimon. It always carries four pipes on the belt around its waist, within which lurk four kuda-gitsune. It is able to use these kuda-gitsune for everything from attacking to gathering information. Just like Holy Angemon's Priest Mode, it is able to change into a Miko Mode which administers Shinto rituals. Its Signature Move is attacking the opponent with the four kuda-gitsune carried on its waist (Izuna). The four kuda-gitsune possess the attributes of \"Fire\", \"Water\", \"Wind\", and \"Thunder\", respectively. Its Special Move is striking the ground with its \"Kongou Shakujou\", spreading a purifying barrier that exorcises evil spirits (Kongoukai Mandara).SakuyamonBeginning with necromancy and Onmyoudou, it has grown into a specialist who has mastered every secret art that has been passed down throughout the Eastern Digital World. By attuning itself closely to the Digital World's nature, it is able to transform various object data such as flora and rocks into shikigami in the shape of flowers or foxes, and order them to do its bidding. It is skilled in using its kuda-gitsune and shikigami for reconnaissance and espionage; acting as a watchman of the darkness, it strikes at its foes from the dark using the information it has obtained. Its new Special Moves are turning all of the objects around it into countless shikigami, enveloping the enemy in a storm of flowers and annihilating them (Konohanasenki-banshou), and fusing its four kuda-gitsune, which possess power over each of the four elements respectively, into a single gigantic fox spirit and summoning it (Uka-no-Mitama).",
+        "specialMoves": [
+          "Izuna",
+          "Kongoukai Mandara",
+          "Konohanasenki-banshou",
+          "Uka-no-Mitama"
+        ]
+      },
+      "1644": {
+        "name": "Okunimon",
+        "level": "Unknown",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1645": {
+        "name": "Gigantic Pumpmon",
+        "level": "Ultimate",
+        "type": "Puppet",
+        "profile": "Along with Halloween comes Pumpmon!    Despite its appearance, it is a powerful attacker.    Come on, let's all enjoy Halloween!",
+        "specialMoves": []
+      },
+      "1646": {
+        "name": "Kodokugumon Child",
+        "level": "Child",
+        "type": "Insect",
+        "profile": "A Child Digimon with the appearance of a spider that behaves in clusters with Dokugumon. It is usually docile and hangs from things such as tree branches with its body curled into a ball, but if an enemy approaches, it attacks en masse from overhead. It wears gloves with a strong poison on the claws because it is unable to produce a strong poison of its own yet. Its Special Move is scratching the enemy with its poison claw gloves (Poison Nail).",
+        "specialMoves": [
+          "Poison Nail"
+        ]
+      },
+      "1647": {
+        "name": "Omegamon Shuang Wu",
+        "level": "Ultimate",
+        "type": "Holy Knight",
+        "profile": "A special form of Omegamon that can switch between dual-wielding swords and dual-wielding cannons. A Holy Knight Digimon born from the fusion of the Virus Busters War Greymon and Metal Garurumon due to the powerful wills of everyone who wished for good, and who is one of the \"Royal Knights\". As a Digimon that combines the special qualities of the two, it is a multi-type warrior capable of fully demonstrating those abilities in any given situation.",
+        "specialMoves": [
+          "Shuāng Pào Shén Fá",
+          "Èr Chóng Pò Miè Zhǎn",
+          "Qíjī Zhī Lì"
+        ]
+      },
+      "1648": {
+        "name": "Kaguyamon",
+        "level": "Ultimate",
+        "type": "Puppet",
+        "profile": "Some say that whenever one looks up at the moonlit night, they may occasionally see a door leading to another horizon open up; that is because Kaguyamon is crying. Residing in the beautiful bamboo grove regions spread across the Eastern Digital World, Kaguyamon has been strongly influenced by the data of a princess mentioned in a tale passed down in Japan since ancient times.    It has a nature that loves peace and tranquility above all else, and is responsible for protecting the mountains that make up most of the Eastern Digital World. It has the ability to open gates to faraway places or Digital Worlds of other dimensions, and transports its targets, enveloped in light, via bamboo that appears at their destinations. Since it dispatches many of its subordinate Digimon to locations where strange phenomena have occurred, bamboo groves are said to form at sites where gates have been opened.    Its bamboo tube-like device has a mechanism that emits psychic waves, and utilizing its telekinesis grants it high mobility and the ability to fly. Because it can easily control powerful, vast amounts of psychic waves, there are times when it will use its telekinesis to deal with problems itself that its subordinate Digimon were unable to handle.    Its Special Moves are using its telekinesis to forcibly disarm the enemy, and firing a volley of psychic bullets to annihilate its surroundings (Taketori Monogatari), and causing meteorites summoned from another space to rain down directly above enemy forces (Tsukiyo no Mukae).",
+        "specialMoves": [
+          "Taketori Monogatari",
+          "Tsukiyo no Mukae"
+        ]
+      },
+      "1649": {
+        "name": "Laeus Greymon",
+        "level": "Ultimate",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1650": {
+        "name": "War Greymon: \"G\" Erosion Mode",
+        "level": "Ultimate",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
+      },
+      "1651": {
+        "name": "Zino Garurumon",
+        "level": "Ultimate",
+        "type": "Unknown",
+        "profile": "",
+        "specialMoves": []
       }
     },
     "1": {
